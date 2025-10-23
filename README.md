@@ -18,7 +18,7 @@ This is a skeletal norns script ready for development.
 
 From maiden:
 ```
-;install https://github.com/yourusername/nornsvember
+;install https://github.com/sethbc/nornsvember
 ```
 
 Or manually copy the `nornsvember` folder to `~/dust/code/`.
